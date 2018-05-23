@@ -1,5 +1,3 @@
-Data: 28/03/2017
-
 1. Crie um código em C para gerar três processos-filho usando o fork().
 
 #include <stdio.h>
